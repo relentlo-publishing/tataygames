@@ -1,3 +1,3 @@
 # tataygames
 
-<iframe src="http://tataygames.com/" title="tataygames"></iframe>
+Proceed to the <a href="http://tataygames.com/">Tatay Games Website</a>
