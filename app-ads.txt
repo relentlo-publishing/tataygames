@@ -1,0 +1,4 @@
+# App-ads.txt relentlo-publishing.github.io/tataygames
+#
+Relentlo
+#
