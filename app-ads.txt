@@ -1,4 +1,3 @@
 # App-ads.txt relentlo-publishing.github.io/tataygames
-#
-Relentlo
-#
+
+relentlo.com, pub-6446820790152152, RESELLER
